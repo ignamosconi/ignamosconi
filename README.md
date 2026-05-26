@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi! I'm Ignacio Mosconi 👋
 
-<!--
-**ignamosconi/ignamosconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student at UTN FRVM (2022 - present), passionate  
+about building useful software, solving problems, and teaching programming.
 
-Here are some ideas to get you started:
+Currently focused on:
+- ⚙️ Full-stack development with NestJS + TypeScript.
+- 🌐 Frontend with Angular / React / Vite.
+- 🧠 Algorithms & competitive programming.
+- 🎮 Creative coding and game development with PICO-8.
+- 👨‍🏫 Teaching and mentoring programming students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Projects
+
+### 🖥️ win95Portfolio
+Interactive Windows 95-inspired portfolio with games and an Internet browser.
+
+🔗 Try it live: https://ignamosconi.com.ar  
+🔗 Repository: https://github.com/ignamosconi/win95Portfolio
+
+---
+
+### 🏆 Torneito
+An upcoming project I'm really excited about: a competitive CS2 esports platform  
+with a transfer market, match history and player ratings, designed for students  
+from any UTN regional faculty across Argentina.  
+
+You can follow the progress here. Hopefully launching in 2027!
+
+🔗 https://github.com/ignamosconi/CS2_Tournaments_back  
+🔗 https://github.com/ignamosconi/CS2_Tournaments_server  
+🔗 https://github.com/ignamosconi/CS2_Tournaments_front
+
+---
+
+### 📌 Check out my pinned repositories!
+
+You can find some of the coolest things I've built there.
+
+A few of them are also live:
+- 🔗 https://todo.ignamosconi.com.ar/
+- 🔗 https://torneograduados.frvm.utn.edu.ar/
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- TypeScript
+- Lua
+
+### Backend
+- NestJS
+- REST APIs
+- PostgreSQL
+- MongoDB
+
+### Frontend
+- Angular
+- React
+- Vite
+- Next.js
+
+---
+
+## 🌍 Languages
+- 🇦🇷 Spanish (native)
+- 🇬🇧 English (C1)
+- 🇩🇪 German (A1)
+
+---
+
+## 📫 Contact
+Let's stay in touch!  
+✉️ ignamosconi@gmail.com  
