@@ -70,7 +70,7 @@ A few of them are also live:
 
 ## 🌍 Languages
 - 🇦🇷 Spanish (native)
-- 🇬🇧 English (C1)
+- 🇺🇸 English (C1)
 - 🇩🇪 German (A1)
 
 ---
