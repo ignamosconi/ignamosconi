@@ -1,4 +1,4 @@
-# Hi! I'm Ignacio Mosconi 👋
+# Hi! I'm Igna!! 👋
 
 I'm a Systems Engineering student at UTN FRVM (2022 - present), passionate  
 about building useful software, solving problems, and teaching programming.
