@@ -12,9 +12,9 @@ Currently focused on:
 
 ---
 
-## My Projects
+## 🚀 My Projects
 
-### win95Portfolio
+### 🖥️ win95Portfolio
 Interactive Windows 95-inspired portfolio with games and an Internet browser.
 
 → Try it live: https://ignamosconi.com.ar  
@@ -22,7 +22,7 @@ Interactive Windows 95-inspired portfolio with games and an Internet browser.
 
 ---
 
-### Torneito
+### 🏆 Torneito
 An upcoming project I'm really excited about: a competitive CS2 esports platform  
 with a transfer market, match history and player ratings, designed for students  
 from any UTN regional faculty across Argentina.  
@@ -35,7 +35,7 @@ You can follow the progress here. Hopefully launching in 2027!
 
 ---
 
-### Check out my pinned repositories!
+### 📌 Check out my pinned repositories!
 
 You can find some of the coolest things I've built there.
 
@@ -69,12 +69,12 @@ A few of them are also live:
 ---
 
 ## 🌍 Languages
-- 🇦🇷 Spanish (native)
-- 🇺🇸 English (C1)
-- 🇩🇪 German (A1)
+- Spanish (native)
+- English (C1)
+- German (A1)
 
 ---
 
 ## 📫 Contact
 Let's stay in touch!  
-✉️ ignamosconi@gmail.com  
+ignamosconi@gmail.com  
