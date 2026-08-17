@@ -54,13 +54,17 @@ You can follow the progress here. Hopefully launching in 2027!
 
 ---
 
+### 🌐 Some links for you
+
+A few of my projects are live, check them out!
+- https://todo.ignamosconi.com.ar/
+- https://ascend.ignamosconi.com.ar/
+
+---
+
 ### 📌 Check out my pinned repositories below!
 
 You can find some of the coolest things I've built there.
-
-A few of them are also live:
-- https://todo.ignamosconi.com.ar/
-- https://ascend.ignamosconi.com.ar/
 
 
 ## 🛠️ Tech Stack
