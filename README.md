@@ -10,8 +10,6 @@ Currently focused on:
 - Creative coding and game development with PICO-8.
 - Teaching and mentoring programming students.
 
----
-
 ## 🚀 My Projects
 
 ### 🖥️ win95Portfolio
@@ -64,7 +62,6 @@ A few of them are also live:
 - https://todo.ignamosconi.com.ar/
 - https://ascend.ignamosconi.com.ar/
 
----
 
 ## 🛠️ Tech Stack
 
@@ -87,14 +84,12 @@ A few of them are also live:
 - Vite
 - Next.js
 
----
 
 ## 🌍 Languages
 - Spanish (native)
 - English (B2)
 - German (A1)
 
----
 
 ## 📫 Contact
 Let's stay in touch!  
