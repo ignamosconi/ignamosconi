@@ -38,7 +38,7 @@ me work without hesitation.
 This project showed me that the vision you have for the things you make is as important  
 as the things themselves. You can check the repos involved in these links:
 
-→  https://github.com/ignamosconi/sso-frvm
+→  https://github.com/ignamosconi/sso-frvm  
 →  https://github.com/ignamosconi/sso-frvm-admin
 
 ---
