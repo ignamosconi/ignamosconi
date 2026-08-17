@@ -22,6 +22,27 @@ Interactive Windows 95-inspired portfolio with games and an Internet browser.
 
 ---
 
+### 🔒 SSO for UTN FRVM
+This project emerged not only for the **necessity** I saw in my uni having multiple  
+apps for its students, all of them with different logins, but also in the **belief**  
+that giving students the **power** to give their apps an instant user base (other  
+students, that would not have the friction of registering on a new app) would  
+raise the ceiling of development in my university, allowing everyone to create  
+awesome applications and tools.
+
+Without asking any staff in the university if they "needed" the project, I started  
+working on it without having a confirmation that it would be used in  the future.  
+Risky? Perhaps, but the confidence I had in the project and its future use-cases made  
+me work without hesitation.
+
+This project showed me that the vision you have for the things you make is as important  
+as the things themselves. You can check the repos involved in these links:
+
+→  https://github.com/ignamosconi/sso-frvm
+→  https://github.com/ignamosconi/sso-frvm-admin
+
+---
+
 ### 🏆 Torneito
 An upcoming project I'm really excited about: a competitive CS2 esports platform  
 with a transfer market, match history and player ratings, designed for students  
