@@ -56,9 +56,9 @@ You can follow the progress here. Hopefully launching in 2027!
 
 ### 🌐 Some links for you
 
-A few of my projects are live, check them out!
-- https://todo.ignamosconi.com.ar/
-- https://ascend.ignamosconi.com.ar/
+A few of my projects are live, check them out!  
+→  https://todo.ignamosconi.com.ar/  
+→  https://ascend.ignamosconi.com.ar/  
 
 ---
 
