@@ -29,20 +29,19 @@ from any UTN regional faculty across Argentina.
 
 You can follow the progress here. Hopefully launching in 2027!
 
-→  https://github.com/ignamosconi/CS2_Tournaments_back  
-→  https://github.com/ignamosconi/CS2_Tournaments_server  
+→  https://github.com/ignamosconi/CS2_Tournaments_server
+→  https://github.com/ignamosconi/CS2_Tournaments_back
 →  https://github.com/ignamosconi/CS2_Tournaments_front
 
 ---
 
-### 📌 Check out my pinned repositories!
+### 📌 Check out my pinned repositories below!
 
 You can find some of the coolest things I've built there.
 
 A few of them are also live:
 - https://todo.ignamosconi.com.ar/
 - https://ascend.ignamosconi.com.ar/
-- https://torneograduados.frvm.utn.edu.ar/
 
 ---
 
