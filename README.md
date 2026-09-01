@@ -54,8 +54,15 @@ You can follow the progress here. Hopefully launching in 2027!
 
 ---
 
-### 🌐 Some links for you
+### 🧭 adonde
+An awesome geography game where you use a compass to find out what country you're  
+standing in. To get clues, you'll have to guess other countries' flags!  
 
+→  https://adonde.ignamosconi.com.ar/  
+
+---
+
+### 🌐 Other links 
 A few of my projects are live, check them out!  
 →  https://todo.ignamosconi.com.ar/  
 →  https://ascend.ignamosconi.com.ar/  
