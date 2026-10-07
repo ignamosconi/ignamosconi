@@ -62,6 +62,17 @@ standing in. To get clues, you'll have to guess other countries' flags!
 
 ---
 
+### 🏐 voley
+During the UTN Juegos Deportivos Tecnológicos 2026, matches were delayed because the physical scoreboards where broken. To bypass the two-hour wait required to fix the issue, I built a mobile scoreboard app on the fly. That prototype later became the foundation for this project.
+
+Voley is a lightweight volleyball scoreboard web app that supports Best-of-1 (BO1), Best-of-3 (BO3), and Best-of-5 (BO5) match formats. A key highlight is its custom hotkey support for adjusting scores, allowing you to run the app on a laptop connected to a TV and control the display remotely using a wireless keyboard or mouse.
+
+Team names, colors, and font sizes are completely customizable. Plus, once loaded in the browser, it works entirely offline, making it a reliable solution for any match.
+
+→  https://voley.ignamosconi.com.ar/  
+
+
+
 ### 🌐 Other links 
 A few of my projects are live, check them out!  
 →  https://todo.ignamosconi.com.ar/  
